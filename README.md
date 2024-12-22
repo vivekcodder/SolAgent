@@ -1,6 +1,6 @@
 # SolAgent
 
-[![Solana Swarm](https://resimlink.com/FwoN6IcnAR)](https://solana-agent.com)
+[![Solana Swarm](https://portswigger.net/cms/images/06/a0/83da-article-211231-matric-body.jpg](https://solana-agent.com)
 
 ## Why Solana Agent
 
