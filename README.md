@@ -2,31 +2,31 @@
 
 [![Solana Swarm](https://portswigger.net/cms/images/06/a0/83da-article-211231-matric-body.jpg)](https://solana-agent.com)
 
-## Why Solana Agent
+## Why SolAgent
 
 ### Batteries Included
 * Based on CyberChipped - a Python OpenAI Assistant Framework
 * Provides conversational memory, parallel function calling, smart automatic tool choice, and message history using MongoDB
 * Utilizes FastAPI and Next.js - the most popular and supported web frameworks 
 * Quickly add custom functions to your AI agent in a few lines of code
-* Solana Agent Actions: 
+* SolAgent Actions: 
     * Transfer tokens from the Agent wallet to other wallets - via Helius
     * Swap tokens inside the Agent wallet - via Jupiter and Helius
 * Social Integrations: 
     * X - via the X API (Basic Plan)
 
 ### Better than Eliza
-* Solana Agent requires no-code changes, only adding simple environment variables, and MongoDB/Redis to work out of the box for a complete AI Agent with real-time chat
-* Solana Agent's conversational history is superior to RAG for user interactivity, tool usage, and agent memory/recall/context
-* Solana Agent's parallel tool calling and automatic AI tool choice is superior than using any LLM completion API with tool usage from any provider
-* Solana Agent is an opinionated framework with one way to do things to keep things simple
-* Solana Agent is written in Python the most popular language on GitHub and in the AI field
-* Solana Agent replies on X in real-time and only replies when it should
+* SolAgent requires no-code changes, only adding simple environment variables, and MongoDB/Redis to work out of the box for a complete AI Agent with real-time chat
+* SolAgent's conversational history is superior to RAG for user interactivity, tool usage, and agent memory/recall/context
+* SolAgent's parallel tool calling and automatic AI tool choice is superior than using any LLM completion API with tool usage from any provider
+* SolAgent is an opinionated framework with one way to do things to keep things simple
+* SolaAgent is written in Python the most popular language on GitHub and in the AI field
+* SolAgent replies on X in real-time and only replies when it should
 
 ## Local Dev
 
 ###  Run locally on Mac or Linux
-* Clone this repo - `git clone https://github.com/truemagic-coder/solana-agent`
+* Clone this repo - `git clone https://github.com/vivekcodder/solagent`
 * Ensure the latest LTS Node is installed with yarn
 * Ensure Python 3.12.7 is installed with poetry
 * Ensure Docker and Docker Compose are installed
@@ -67,7 +67,7 @@
 * [Solana Agent X Bot](https://solana-agent.com)
 
 ## Contributing
-Contributions to Solana Agent are welcome! Please feel free to submit a Pull Request.
+Contributions to SolAgent are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
